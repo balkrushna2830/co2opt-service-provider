@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c2125c3a.css",
-    "main.js": "/static/js/main.542e7e99.js",
+    "main.js": "/static/js/main.2806eff7.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/marker-pin.png": "/static/media/marker-pin.f259e7093b05a6fa0fa5.png",
     "index.html": "/index.html",
     "main.c2125c3a.css.map": "/static/css/main.c2125c3a.css.map",
-    "main.542e7e99.js.map": "/static/js/main.542e7e99.js.map",
+    "main.2806eff7.js.map": "/static/js/main.2806eff7.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2125c3a.css",
-    "static/js/main.542e7e99.js"
+    "static/js/main.2806eff7.js"
   ]
 }
